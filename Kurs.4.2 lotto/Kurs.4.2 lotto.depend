@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533739326 source:c:\users\kuba\documents\c++\kurs.4.2 lotto\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+

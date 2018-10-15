@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533734039 source:c:\users\kuba\documents\c++\kurs.3.1\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+

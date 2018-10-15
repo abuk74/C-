@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533738097 source:c:\users\kuba\documents\c++\kurs.4.1\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
